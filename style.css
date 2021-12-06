@@ -6,7 +6,8 @@ body {
     margin: 20px;
     padding: 0;
 }
-
+img{
+	display: block;
 
 p {
     line-height: 21px;
